@@ -1,7 +1,7 @@
 ![gulugulu](https://media0.giphy.com/media/2epS8zhisYtHDCKrWv/giphy.gif)
 
 # lisans-nedir deposu nedir?
-Gdsc için hazırlamış olduğum lisanslar hakkında temel kaynaklar, dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğü olduğu gibi aktarılmıştır, ayrıca github pages'da ki bozulmalar olabilir sebebi ise slides ile uyumlu olmamasıdır, lakin slides'ı slide'da pdf'i pdf görüntüleyiciden, github page'i de tabloları yok sayarak okumak gerekir.
+Gdsc için hazırlamış olduğum lisanslar hakkında temel kaynaklar, dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğü olduğu gibi aktarılmıştır, ayrıca github pages'da ki bozulmalar olabilir sebebi ise slides ile uyumlu olmamasıdır.
 
 [mark down dosyası](https://github.com/lazypwny751/lisans-nedir/blob/main/slides/lisanslar.md)
 
