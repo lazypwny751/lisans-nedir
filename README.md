@@ -16,7 +16,4 @@ Gdsc için hazırlamış olduğum lisanslar hakkında temel kaynaklar, dosyalar 
 * ### [Lisans nedir](https://www.sisbim.com/urun-gruplarimiz/yazilim-lisansi-nedir-neden-gereklidir)
 * ### [BSD sorunu](https://www.gnu.org/licenses/bsd.tr.html)
 
-# Yapılacak:
-* index.md ile slides/lisanslar.md'yi ayırarak düzenli hale getir
-
 # Lisans: [GPLv3](https://choosealicense.com/licenses/gpl-3.0)
