@@ -1,3 +1,4 @@
+_site/
 latex/*.pdf
 latex/*.aux
 latex/*.log

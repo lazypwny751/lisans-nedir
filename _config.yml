@@ -1,0 +1,6 @@
+title: Lisans nedir?
+markdown: kramdown
+theme: jekyll-theme-primer
+exclude:
+  - latex/
+  - slides/
