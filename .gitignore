@@ -1,4 +1,6 @@
+.jekyll-cache/
 _site/
 latex/*.pdf
 latex/*.aux
 latex/*.log
+Gemfile.lock
