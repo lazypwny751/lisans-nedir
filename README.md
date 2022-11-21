@@ -3,8 +3,10 @@
 # Lisans Nedir?
 Gdsc için hazırlamış olduğum lisanslar hakkında temel kaynaklar.
 ## Not:
-dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğü olduğu gibi aktarılmıştır. 
+dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğü olduğu gibi aktarılmıştır.
+
 [mark down dosyası](https://github.com/lazypwny751/lisans-nedir/blob/main/slides/lisanslar.md)
+
 [pdf dosyası](https://github.com/lazypwny751/lisans-nedir/releases/download/1/lisanslar.pdf)
 
 # Kaynakça:
