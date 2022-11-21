@@ -1,9 +1,7 @@
 ![gulugulu](https://media0.giphy.com/media/2epS8zhisYtHDCKrWv/giphy.gif)
 
-# Lisans Nedir?
-Gdsc için hazırlamış olduğum lisanslar hakkında temel kaynaklar.
-## Not:
-dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğü olduğu gibi aktarılmıştır.
+# lisans-nedir deposu nedir?
+Gdsc için hazırlamış olduğum lisanslar hakkında temel kaynaklar, dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğü olduğu gibi aktarılmıştır, ayrıca github pages'da ki bozulmalar olabilir sebebi ise slides ile uyumlu olmamasıdır, lakin slides'ı slide'da pdf'i pdf görüntüleyiciden, github page'i de tabloları yok sayarak okumak gerekir.
 
 [mark down dosyası](https://github.com/lazypwny751/lisans-nedir/blob/main/slides/lisanslar.md)
 
@@ -17,5 +15,8 @@ dosyalar kısmen aynı içerikleri barındırmayabiliri lakin konu bütünlüğ�
 * ### [MIT kullanan yazılımlar](https://en.wikipedia.org/wiki/Category:Software_using_the_MIT_license)
 * ### [Lisans nedir](https://www.sisbim.com/urun-gruplarimiz/yazilim-lisansi-nedir-neden-gereklidir)
 * ### [BSD sorunu](https://www.gnu.org/licenses/bsd.tr.html)
+
+# Yapılacak:
+* index.md ile slides/lisanslar.md'yi ayırarak düzenli hale getir
 
 # Lisans: [GPLv3](https://choosealicense.com/licenses/gpl-3.0)
